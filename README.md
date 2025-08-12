@@ -1,19 +1,26 @@
-# 💫 About Me
+# 👋 Hi, I’m Mahmoud Esawi
 
-🔭 I am a dedicated Computer Engineering student specializing in full-stack development with expertise in front-end technologies, back-end systems (including .NET and C#), microcontroller programming, and robotics.  
-💻 Experienced in building scalable web applications, embedded systems, and custom PC builds from the ground up.  
-🌱 Currently expanding my skills in cloud technologies, API development, and modern software architecture.  
-💬 Feel free to reach out for collaboration, mentorship, or technical discussions related to full-stack development, embedded systems, or robotics.
+### 🚀 Full-Stack Engineer  | Robotics Hobbyist
 
----
-
-## 🌐 Connect with me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Mahmoud-Esawi)  
+Passionate about crafting seamless user experiences and robust back-end systems.  
+I build web apps, microcontroller projects, and custom PCs from scratch — bridging hardware and software.
 
 ---
 
-# 💻 Tech Stack
+## 🛠️ What I Do
+
+- 💻 **Full-Stack Development:**  
+  Modern web apps with C#, .NET, JavaScript, HTML, CSS, PHP, and Dart (Flutter).  
+- 🤖 **Embedded Systems & Robotics:**  
+   programming, sensors integration, motor control, and automation projects.  
+- 🌐 **Cloud & APIs:**  
+  Building secure REST APIs with JWT, database design with MySQL, and deployment workflows.  
+- 🎨 **UI/UX Design:**  
+  Creating sleek interfaces using Figma, Adobe Suite, and Canva.
+
+---
+
+## ⚡ Tech Stack
 
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
@@ -34,10 +41,27 @@
 
 ---
 
-### ✍️ Random Developer Quote
+## 📂 Selected Projects
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+| Project | Description | Tech Stack | Link |
+| --- | --- | --- | --- |
+| **Full-Stack Electronics Store** | Responsive web store for electronic components with CRUD and authentication | .NET, C#, JavaScript, MySQL |  |
+| **Portfolio Website** | Personal website showcasing projects and skills | HTML, CSS, JS | [GitHub Repo](https://github.com/MahmoudEsawi/MahmoudEsawip) |
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=MahmoudEsaqi&icon=0&color=0)](https://visitcount.itsvg.in)
+## 📫 Let’s Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Mahmoud-Esawi)  
+[![Email](https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white)](mailto:esawi@ieee.org)  
+
+---
+
+### ✍️ Developer’s Quote
+
+> "Code is like humor. When you have to explain it, it’s bad." – Cory House
+
+---
+
+![Visitor Count](https://visitcount.itsvg.in/api?id=MahmoudEsaqi&icon=0&color=0)
+
